@@ -1,0 +1,24 @@
+{
+  "name": "java-idrink",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "json-server": "^0.9.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://zxcv79138246@github.com/zxcv79138246/java_idrink.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zxcv79138246/java_idrink/issues"
+  },
+  "homepage": "https://github.com/zxcv79138246/java_idrink#readme"
+}
